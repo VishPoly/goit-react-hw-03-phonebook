@@ -14,6 +14,7 @@ class App extends React.Component {
     ],
     filter: '',
   };
+  
 
   componentDidMount() {
     const contacts = localStorage.getItem('contacts');

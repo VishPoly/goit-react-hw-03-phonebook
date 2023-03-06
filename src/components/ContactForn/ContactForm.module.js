@@ -14,6 +14,7 @@ export const Form = styled.form`
   margin-top: 20px;
 `;
 
+
 export const Input = styled.input`
   outline: none;
   padding: 5px;

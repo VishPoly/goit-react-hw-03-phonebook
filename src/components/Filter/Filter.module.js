@@ -12,6 +12,7 @@ export const Label = styled.label`
   margin: 5px;
 `;
 
+
 export const Input = styled.input`
   outline: none;
   padding: 5px;

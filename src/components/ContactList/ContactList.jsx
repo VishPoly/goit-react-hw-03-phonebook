@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Button, Container, List, ContactItem } from './ContactList.module';
 
+
 const ContactList = ({ contacts, onRemove }) => {
   return (
     <Container>

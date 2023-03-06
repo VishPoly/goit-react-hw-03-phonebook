@@ -1,5 +1,6 @@
 import styled from '@emotion/styled';
 
+
 export const AppStyled = styled.div`
   padding: 30px;
   display: flex;
